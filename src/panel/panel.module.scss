@@ -1,0 +1,33 @@
+@import "src/styles/variables";
+
+.panel {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  background: $panel-color;
+  height: 100%;
+
+  .panelItem {
+    width: 225px;
+    height: 30px;
+    display: flex;
+    align-items: start;
+    text-align: left;
+    justify-content: start;
+    padding: 10px 20px 30px 20px;
+    margin-bottom: 25px;
+    color: #fff;
+    font-size: 18px;
+    line-height: 23px;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: pointer;
+    //font-family: DM Sans, serif;
+  }
+
+  .activePanelItem {
+    background: $active-panel-color !important;
+  }
+
+}

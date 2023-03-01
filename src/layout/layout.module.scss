@@ -1,0 +1,30 @@
+@import "src/styles/variables";
+
+.layout {
+  width: 100%;
+  margin: 0 auto;
+  //max-width: 1440px;
+  background: #fff;
+  display: flex;
+  align-items: flex-start;
+
+  .panel {
+    height: 100%;
+    width: 225px;
+    top: 80px;
+    position: fixed;
+    height: 100%;
+    background: $panel-color;
+    padding: 50px 0;
+  }
+
+  .displayPage {
+    width: calc(100% - 225px);
+    margin-left: 225px;
+    margin-top: 80px;
+    background: #e5eaf5;
+    height: 100%;
+    min-height: 100vh;
+  }
+
+}

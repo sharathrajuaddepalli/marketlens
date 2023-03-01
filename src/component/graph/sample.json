@@ -1,0 +1,284 @@
+[
+  {
+    "symbol": "AOS",
+    "year": 2020,
+    "subYear": 1,
+    "value": 46.39952380952381
+  },
+  {
+    "symbol": "AOS",
+    "year": 2020,
+    "subYear": 2,
+    "value": 42.79684210526316
+  },
+  {
+    "symbol": "AOS",
+    "year": 2020,
+    "subYear": 3,
+    "value": 38.845
+  },
+  {
+    "symbol": "AOS",
+    "year": 2020,
+    "subYear": 4,
+    "value": 39.87095238095238
+  },
+  {
+    "symbol": "AOS",
+    "year": 2020,
+    "subYear": 5,
+    "value": 43.16
+  },
+  {
+    "symbol": "AOS",
+    "year": 2020,
+    "subYear": 6,
+    "value": 47.76772727272727
+  },
+  {
+    "symbol": "AOS",
+    "year": 2020,
+    "subYear": 7,
+    "value": 49.71272727272727
+  },
+  {
+    "symbol": "AOS",
+    "year": 2020,
+    "subYear": 8,
+    "value": 49.152857142857144
+  },
+  {
+    "symbol": "AOS",
+    "year": 2020,
+    "subYear": 9,
+    "value": 50.94
+  },
+  {
+    "symbol": "AOS",
+    "year": 2020,
+    "subYear": 10,
+    "value": 54.57454545454546
+  },
+  {
+    "symbol": "AOS",
+    "year": 2020,
+    "subYear": 11,
+    "value": 55.2975
+  },
+  {
+    "symbol": "AOS",
+    "year": 2020,
+    "subYear": 12,
+    "value": 55.50590909090909
+  },
+  {
+    "symbol": "AOS",
+    "year": 2021,
+    "subYear": 1,
+    "value": 56.432631578947365
+  },
+  {
+    "symbol": "AOS",
+    "year": 2021,
+    "subYear": 2,
+    "value": 59.75473684210527
+  },
+  {
+    "symbol": "AOS",
+    "year": 2021,
+    "subYear": 3,
+    "value": 65.29217391304348
+  },
+  {
+    "symbol": "AOS",
+    "year": 2021,
+    "subYear": 4,
+    "value": 67.76857142857143
+  },
+  {
+    "symbol": "AOS",
+    "year": 2021,
+    "subYear": 5,
+    "value": 70.349
+  },
+  {
+    "symbol": "AOS",
+    "year": 2021,
+    "subYear": 6,
+    "value": 68.93318181818182
+  },
+  {
+    "symbol": "AOS",
+    "year": 2021,
+    "subYear": 7,
+    "value": 70.41619047619048
+  },
+  {
+    "symbol": "AOS",
+    "year": 2021,
+    "subYear": 8,
+    "value": 71.60772727272727
+  },
+  {
+    "symbol": "AOS",
+    "year": 2021,
+    "subYear": 9,
+    "value": 67.43523809523809
+  },
+  {
+    "symbol": "AOS",
+    "year": 2021,
+    "subYear": 10,
+    "value": 65.37380952380953
+  },
+  {
+    "symbol": "AOS",
+    "year": 2021,
+    "subYear": 11,
+    "value": 80.17714285714285
+  },
+  {
+    "symbol": "AOS",
+    "year": 2021,
+    "subYear": 12,
+    "value": 82.82363636363637
+  },
+  {
+    "symbol": "BTC",
+    "year": 2020,
+    "subYear": 2,
+    "value": 9653.828148148148
+  },
+  {
+    "symbol": "BTC",
+    "year": 2020,
+    "subYear": 3,
+    "value": 6862.995806451613
+  },
+  {
+    "symbol": "BTC",
+    "year": 2020,
+    "subYear": 4,
+    "value": 7212.127
+  },
+  {
+    "symbol": "BTC",
+    "year": 2020,
+    "subYear": 5,
+    "value": 9254.304193548387
+  },
+  {
+    "symbol": "BTC",
+    "year": 2020,
+    "subYear": 6,
+    "value": 9481.804666666667
+  },
+  {
+    "symbol": "BTC",
+    "year": 2020,
+    "subYear": 7,
+    "value": 9592.066129032259
+  },
+  {
+    "symbol": "BTC",
+    "year": 2020,
+    "subYear": 8,
+    "value": 11640.994193548388
+  },
+  {
+    "symbol": "BTC",
+    "year": 2020,
+    "subYear": 9,
+    "value": 10641.700666666668
+  },
+  {
+    "symbol": "BTC",
+    "year": 2020,
+    "subYear": 10,
+    "value": 11883.404516129032
+  },
+  {
+    "symbol": "BTC",
+    "year": 2020,
+    "subYear": 11,
+    "value": 16658.47433333333
+  },
+  {
+    "symbol": "BTC",
+    "year": 2020,
+    "subYear": 12,
+    "value": 21977.935161290323
+  },
+  {
+    "symbol": "BTC",
+    "year": 2021,
+    "subYear": 1,
+    "value": 34715.923548387094
+  },
+  {
+    "symbol": "BTC",
+    "year": 2021,
+    "subYear": 2,
+    "value": 46269.02321428571
+  },
+  {
+    "symbol": "BTC",
+    "year": 2021,
+    "subYear": 3,
+    "value": 54836.61580645161
+  },
+  {
+    "symbol": "BTC",
+    "year": 2021,
+    "subYear": 4,
+    "value": 57064.064
+  },
+  {
+    "symbol": "BTC",
+    "year": 2021,
+    "subYear": 5,
+    "value": 46414.12774193548
+  },
+  {
+    "symbol": "BTC",
+    "year": 2021,
+    "subYear": 6,
+    "value": 35834.29466666667
+  },
+  {
+    "symbol": "BTC",
+    "year": 2021,
+    "subYear": 7,
+    "value": 34432.47580645161
+  },
+  {
+    "symbol": "BTC",
+    "year": 2021,
+    "subYear": 8,
+    "value": 45671.744838709674
+  },
+  {
+    "symbol": "BTC",
+    "year": 2021,
+    "subYear": 9,
+    "value": 45927.298
+  },
+  {
+    "symbol": "BTC",
+    "year": 2021,
+    "subYear": 10,
+    "value": 57894.03741935484
+  },
+  {
+    "symbol": "BTC",
+    "year": 2021,
+    "subYear": 11,
+    "value": 60662.52133333333
+  },
+  {
+    "symbol": "BTC",
+    "year": 2021,
+    "subYear": 12,
+    "value": 49287.4335483871
+  }
+]

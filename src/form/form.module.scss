@@ -1,0 +1,21 @@
+@import "src/styles/variables.scss";
+
+.horizontalForm {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+  margin: 25px 30px;
+
+  .formElement {
+    width: 350px;
+  }
+
+  .submitButton {
+    background: $active-panel-color;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+
+}

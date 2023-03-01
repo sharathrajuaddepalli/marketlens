@@ -1,0 +1,25 @@
+
+.radioGroup {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: start;
+
+  .radioOutput {
+    display: flex;
+    width: 150px;
+    justify-content: space-between;
+  }
+
+  .radioGroupLabel {
+    font-weight: 600;
+    color: black;
+    margin-bottom: 5px;
+  }
+
+  .radioLabel {
+    display: block;
+    margin-top: 5px;
+  }
+
+}
